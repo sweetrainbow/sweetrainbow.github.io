@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : My lovely Hong(rainbow)
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Kevin Grover
+  email : kevingrover1@outlook.com
+  github : kevingrover1
   twitter : username
   feedburner : feedname
 
@@ -79,10 +79,10 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
+  comments : 
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : sweetrainbowdev
     livefyre :
       site_id : 123
     intensedebate :
